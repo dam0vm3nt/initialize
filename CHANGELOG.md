@@ -1,5 +1,9 @@
 ## 0.6.2+5
 
+* Update analyzer maximum version to `0.31.0`
+
+## 0.6.2+5
+
 * Update analyzer minimum version to `0.27.2`.
 
 ## 0.6.2+4
